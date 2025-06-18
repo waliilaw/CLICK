@@ -1,4 +1,4 @@
-src/
+<h1>src/
   ├── components/
   │   ├── Editor.tsx        (main code editor)
   │   ├── Toolbar.tsx      (combined settings/controls)
@@ -9,4 +9,4 @@ src/
   ├── hooks/
   │   ├── useEditor.ts     (combined editor settings hook)
   │   └── useTheme.ts      (combined theme settings hook)
-  └── utils/               (combined helpers & constants)
+  └── utils/               (combined helpers & constants)</h1>
